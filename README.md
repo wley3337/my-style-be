@@ -10,6 +10,9 @@ NOTE: Due to some issues with getting the .gitignore up and running correctly I 
 - have cors working with a react fe using vite
 
 ## Next up
+
 [] Make sure call read from the db
+
 [] Add a seed data file for 3 Users
+
 []
